@@ -1,0 +1,14 @@
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\bin\Debug\net8.0\Tarea de los bucles 1.exe
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\bin\Debug\net8.0\Tarea de los bucles 1.deps.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\bin\Debug\net8.0\Tarea de los bucles 1.runtimeconfig.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\bin\Debug\net8.0\Tarea de los bucles 1.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\bin\Debug\net8.0\Tarea de los bucles 1.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\Tarea de los bucles 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\Tarea de los bucles 1.AssemblyInfoInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\Tarea de los bucles 1.AssemblyInfo.cs
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\Tarea de los bucles 1.csproj.CoreCompileInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\Tarea de los bucles 1.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\refint\Tarea de los bucles 1.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\Tarea de los bucles 1.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\Tarea de los bucles 1.genruntimeconfig.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Práctica_1_programación_secuencial\Tarea de los bucles 1\Tarea de los bucles 1\obj\Debug\net8.0\ref\Tarea de los bucles 1.dll
